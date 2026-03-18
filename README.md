@@ -20,9 +20,11 @@ Please make sure you have Xcode installed and that your environment supports a r
 ##### d. Trust the developer profile on your iPhone by following this path: "Settings" -> "VPN & Device Management" -> "Developer App" -> "PhoneStreamer".
 
 ### 4) Try to capture some data
-##### a. Find the iOS app PhoneStreamer on your iPhone and open it.
+a. Find the iOS app `PhoneStreamer` on your iPhone and open it.  
 <img src="./assets/app.png" alt="APP_ICON" width="180"/>
-##### b. Enter the IP address and port of your laptop in the app.
+
+b. Enter the IP address and port of your laptop in the app.  
 <img src="./assets/main_page.png" alt="MAIN_PAGE" width="180"/>
-##### c. Tap "Start" to begin capturing and streaming data to your laptop.
-##### d. Tap "Stop" to stop capturing data.
+
+c. Tap `Start` to begin capturing and streaming data to your laptop.  
+d. Tap `Stop` to stop capturing data.
